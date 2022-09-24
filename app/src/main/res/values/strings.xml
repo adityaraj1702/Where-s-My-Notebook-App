@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Where\'s My NoteBook</string>
+    <string name="mt_201_rkm">MT-201(RKM)</string>
+    <string name="mt_203_akm">MT-203(AKM)</string>
+    <string name="labreport_pem">LabReport(PEM)</string>
+    <string name="labreport_eo">LabReport(EO)</string>
+    <string name="eo_102">EO-102</string>
+    <string name="notebook">NoteBook</string>
+    <string name="student">Student</string>
+    <string name="ma_201">MA-201</string>
+    <string name="view_records">View Records</string>
+    <string name="ok">OK</string>
+</resources>
